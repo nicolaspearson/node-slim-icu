@@ -2,7 +2,7 @@
 #                       Dockerfile
 # ------------------------------------------------------
 # image:    node-slim-icu
-# name:     nicolaspearson/node-slim-icu
+# name:     nicolaspearson/node-slim-icu/node-slim-icu:master
 # repo:     https://github.com/nicolaspearson/node-slim-icu
 # requires: node:12-slim
 # authors:  Nicolas Pearson

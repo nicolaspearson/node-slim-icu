@@ -8,7 +8,7 @@ jobs:
       - name: Publish to github registry
         uses: nicolaspearson/docker.publish.github.action@master
         with:
-          name: docker.pkg.github.com/nicolaspearson/node/node-slim-icu
+          name: docker.pkg.github.com/nicolaspearson/node-slim-icu/node-slim-icu
           username: ${{ secrets.DOCKER_GITHUB_USERNAME }}
           password: ${{ secrets.GITHUB_TOKEN }}
           registry: docker.pkg.github.com
