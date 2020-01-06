@@ -10,7 +10,6 @@
 
 FROM node:12-slim
 
-LABEL version="1.0.0"
 LABEL repository="https://github.com/nicolaspearson/node-slim-icu"
 LABEL maintainer="Nicolas Pearson"
 
