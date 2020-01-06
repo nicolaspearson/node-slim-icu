@@ -1,6 +1,6 @@
 # node-slim-icu
 
-Node slim image with the `full-icu` npm package and includes `jq` and `rsync`.
+Node slim image with the `full-icu` npm package pre-installed. Also includes `jq` and `rsync`.
 
 ## `docker build`
 
