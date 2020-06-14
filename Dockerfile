@@ -4,11 +4,11 @@
 # image:    node-slim-icu
 # name:     nicolaspearson/node-slim-icu/node-slim-icu:master
 # repo:     https://github.com/nicolaspearson/node-slim-icu
-# requires: node:12-slim
+# requires: node:13-slim
 # authors:  Nicolas Pearson
 # ------------------------------------------------------
 
-FROM node:12-slim
+FROM node:13-slim
 
 LABEL repository="https://github.com/nicolaspearson/node-slim-icu"
 LABEL maintainer="Nicolas Pearson"
